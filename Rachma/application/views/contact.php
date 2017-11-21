@@ -23,7 +23,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<h2>TEMUKAN DISINI</h2>
 			</div>
 			<!--untuk memanggil google map--><div class="contact-map">
-				<iframe src="https://www.google.co.id/maps/place/Jl.+Bukit+Barisan,+Tengkerang+Tim.,+Tenayan+Raya,+Kota+Pekanbaru,+Riau/@0.4861363,101.4927092,17z/data=!3m1!4b1!4m5!3m4!1s0x31d5ae45c2a04f0f:0x9e7a1023e43a43a6!8m2!3d0.4861363!4d101.4948979?hl=id" style="border:0"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.4189367188558!2d101.50571602922905!3d0.4843749999779191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d5ae36e9c8e223%3A0x2ab9a0246be253c2!2sMaju+Jaya!5e0!3m2!1sid!2sid!4v1511249899023" style="border:0"></iframe>
 			</div>
 			
 	</div>
